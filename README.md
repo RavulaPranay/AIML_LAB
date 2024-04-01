@@ -9,6 +9,9 @@
 
 [lab05](https://github.com/RavulaPranay/AIML_LAB/blob/main/Lab05.ipynb)
 
+[lab06](https://github.com/RavulaPranay/AIML_LAB/blob/main/LAB06.ipynb)
+
+
 
 
 
