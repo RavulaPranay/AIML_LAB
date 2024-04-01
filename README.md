@@ -5,4 +5,7 @@
 
 [lab03](https://github.com/RavulaPranay/AIML_LAB/blob/main/Lab03.ipynb)
 
+[lab04](https://github.com/RavulaPranay/AIML_LAB/blob/main/LAB_04.ipynb)
+
+
 
