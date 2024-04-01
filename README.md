@@ -11,6 +11,7 @@
 
 [lab06](https://github.com/RavulaPranay/AIML_LAB/blob/main/LAB06.ipynb)
 
+[lab07](https://github.com/RavulaPranay/AIML_LAB/blob/main/Lab_07.ipynb)
 
 
 
